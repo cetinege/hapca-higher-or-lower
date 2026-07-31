@@ -30,7 +30,7 @@
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Chetoh16/hapca-higher-or-lower
 ```
 
 Navigate into the project directory:
