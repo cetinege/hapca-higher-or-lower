@@ -17,6 +17,7 @@
     - More information on hover
     - Connect with search engine or AI to explain what the diseases are
 - Favicon and unique logo
+- Make Predetermined questions mode optional
 
 
 
@@ -29,7 +30,7 @@
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Chetoh16/hapca-higher-or-lower
 ```
 
 Navigate into the project directory:
