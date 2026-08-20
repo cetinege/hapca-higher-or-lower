@@ -33,7 +33,7 @@ export function HomePage({ onPlay, onLeaderboard, highScore }: Props) {
         <div className="home-logo-row">
           <div className="logo-icon">
             <img 
-              src="src/assets/images/higher-lower-logo.svg" 
+              src="/higher-lower-logo.svg" 
               alt="Team 3 Logo" 
               className="home-logo-img" 
             />
