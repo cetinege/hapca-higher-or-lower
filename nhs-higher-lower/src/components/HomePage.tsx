@@ -10,7 +10,7 @@ interface Props {
   highScore: number;
 }
 
-// Replace with your real YouTube video ID
+// Replace with the real YouTube video ID
 const YOUTUBE_VIDEO_ID = '-iPyuSVeKGY';
 
 
@@ -33,7 +33,11 @@ export function HomePage({ onPlay, onLeaderboard, highScore }: Props) {
       >
         <div className="home-logo-row">
           <div className="logo-icon">
-            <Activity size={28} color="#4fc3f7" />
+            <img 
+              src="src/assets/images/higher-lower-logo.svg" 
+              alt="Team 3 Logo" 
+              className="home-logo-img" 
+            />
           </div>
           <div className="home-title-block">
             <span className="home-team">TEAM 3</span>

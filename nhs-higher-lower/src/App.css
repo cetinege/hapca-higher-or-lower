@@ -124,7 +124,8 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
   margin-bottom: 24px;
 }
 .logo-icon {
-  width: 56px; height: 56px;
+  width: 56px; 
+  height: 56px;
   background: linear-gradient(135deg, var(--navy-600), var(--navy-500));
   border: 1px solid var(--border-bright);
   border-radius: 16px;
@@ -132,6 +133,19 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
   align-items: center;
   justify-content: center;
   box-shadow: 0 0 20px rgba(79,195,247,0.2);
+  /* Padding to stop SVG from touching the edges */
+  padding: 6px; 
+  overflow: hidden;
+}
+
+.home-logo-img {
+  width: 100%;
+  height: 100%;
+  
+  /* Scales the SVG inside the box without stretching */
+  object-fit: contain; 
+
+  display: block;
 }
 .logo-text {
   display: flex;
