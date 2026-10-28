@@ -7,19 +7,6 @@
 ## NHS - HAPCA Higher or Lower 
 - This version of the game is made to be an interactive and engaging introduction to the Hospital Admitted Patient Care Activity (HAPCA) dataset. It is part of a bigger university project titled [Visualising Health Data - University of Nottingham](https://youtu.be/-iPyuSVeKGY). This game is made for the booth (13/05/26).
 
-## To-DO 
-- Light Mode
-- Hard Mode (Subcategory)
-- Background music
-- Animated background
-    - Slight diagonal movement
-- Information pages
-    - More information on hover
-    - Connect with search engine or AI to explain what the diseases are
-- Favicon and unique logo
-- Make Predetermined questions mode optional
-
-
 
 # Quick Access
 - The game is deployed on netlify so just click this [link](https://higherorlowerhapca.netlify.app) to play.
@@ -70,4 +57,16 @@ Open the URL in a web browser.
 ---
 
 ## 4. Enjoy!
+
+
+## To-DO 
+- Light Mode
+- Hard Mode (Subcategory)
+- Background music
+- Animated background
+    - Slight diagonal movement
+- Information pages
+    - More information on hover
+    - Connect with search engine or AI to explain what the diseases are
+- Make Predetermined questions mode optional
 
